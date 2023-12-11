@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\experimento\bin\Debug\net7.0\experimento.exe
+C:\Users\USER\Documents\experimento\bin\Debug\net7.0\experimento.deps.json
+C:\Users\USER\Documents\experimento\bin\Debug\net7.0\experimento.runtimeconfig.json
+C:\Users\USER\Documents\experimento\bin\Debug\net7.0\experimento.dll
+C:\Users\USER\Documents\experimento\bin\Debug\net7.0\experimento.pdb
+C:\Users\USER\Documents\experimento\obj\Debug\net7.0\experimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\experimento\obj\Debug\net7.0\experimento.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\experimento\obj\Debug\net7.0\experimento.AssemblyInfo.cs
+C:\Users\USER\Documents\experimento\obj\Debug\net7.0\experimento.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\experimento\obj\Debug\net7.0\experimento.dll
+C:\Users\USER\Documents\experimento\obj\Debug\net7.0\refint\experimento.dll
+C:\Users\USER\Documents\experimento\obj\Debug\net7.0\experimento.pdb
+C:\Users\USER\Documents\experimento\obj\Debug\net7.0\experimento.genruntimeconfig.cache
+C:\Users\USER\Documents\experimento\obj\Debug\net7.0\ref\experimento.dll
